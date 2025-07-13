@@ -1,9 +1,11 @@
+flask
+flask-cors
+gunicorn
+pillow
 torch
 torchvision
-pandas
 numpy
-Pillow
+pandas
 scikit-learn
 scipy
 matplotlib
-gunicorn
